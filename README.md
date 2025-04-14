@@ -1,6 +1,6 @@
 # Pakana Client
 
-The **Pakana Client** is the front-end user interface for interacting with the Pakana platform — a decentralized system for managing asset ownership, escrow-based contracts, lien waivers, and IP verification. Built with ASP.NET Razor and Blazor, it is modular, extensible, and built to interface with the Pakana API and lockb0x.io for encrypted metadata management.
+The **Pakana Client** is the front-end user interface and decentralized application client for interacting with the Pakana platform — a decentralized system for managing asset ownership, escrow-based contracts, lien waivers, and IP verification. Built with ASP.NET Razor and Blazor, it is modular, extensible, and built to interface with the Pakana API and lockb0x.io for encrypted metadata, document, and transaction management.
 
 ---
 
